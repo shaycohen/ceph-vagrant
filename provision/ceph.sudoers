@@ -1,0 +1,3 @@
+ceph-user ALL=(ALL)       NOPASSWD: ALL
+Defaults:ceph !requiretty
+Defaults:ceph-user !requiretty

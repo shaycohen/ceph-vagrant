@@ -1,0 +1,16 @@
+Host mon1
+   Hostname mon1
+   User ceph-user
+Host osd1
+   Hostname osd1
+   User ceph-user
+Host osd2
+   Hostname osd2
+   User ceph-user
+Host osd3
+   Hostname osd3
+   User ceph-user
+Host mds1
+   Hostname mds1
+   User ceph-user
+
